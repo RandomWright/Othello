@@ -1,4 +1,4 @@
-Charlotte Wright, MW 4:50-6:05, MW 12:30-13:45, Wilfred Wallis, Project 3.
+Charlotte Wright, MW 4:50-6:05, MW 12:30-13:45, Wilfred Wallis, Project 3. Spring 2015.
 
 1. A one paragraph description of your class designs
 
@@ -15,7 +15,8 @@ My custom rule is that a player can remove a piece by clicking on it as a turn.
 
 
 3. A one paragraph description of your testing strategy.
-
+
+
 I had small tests class for my model and my MasterMind test that tests everything I had coded up till then.
 Some of my MasterMind tests no longer worked after improvements to the code but they were useful as the time.
 I also had a lot of print statements to see what is going on.
@@ -30,7 +31,8 @@ The start run my program, run the Start class in the GUI package.
 
 
 5. Instructions describing how to play your game.
-
+
+
 First you enter Player 1's name
 enter Player 2's name
 Choose if you want normal or custom rules
@@ -45,6 +47,7 @@ Play Othello
 
 6. Full documentation for any enhancements that you wish to be considered for extra
 credit. YOU must explain what your enhancements are, and how the TA should
-enable them or otherwise detect their presence.
+enable them or otherwise detect their presence.
+
 
 Possible extra credit enhancements a Enum for the Rows, A to H and/or a binary tree / binary search to find which square the user pressed.
